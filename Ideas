@@ -201,126 +201,118 @@
     },
     {
      "id": 50,
-     "idea": "plastic is it useful or harmful"
-    },
-    {
-     "id": 51,
      "idea": "global warming on earth:one of the serious issue"
     },
   {
-     "id": 52,
+     "id": 51,
      "idea": "Human Pose Detection"
    },
   {
-     "id": 53,
+     "id": 52,
      "idea": "plastic is it useful or harmful"
     },
     {
-     "id": 54,
+     "id": 53,
      "idea": "global warming on earth:one of the serious issue"
     },
   {
-    "id": 55,
+    "id": 54,
     "ideas": "Web Scrapping IMDB website"
     },
     {
-     "id": 56,
+     "id": 55,
      "idea": "Sentiment analysis through face recognition using open CV"  
   },
   {
-     "id": 57,
+     "id": 56,
      "idea": "Ordering food in hotel through software and billit it automatically"
     },
     {
-     "id": 58,
+     "id": 57,
       "ideas": "Baby Cloud"
     },
     {
-      "id": 59,
+      "id": 58,
       "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
   },
   {
-     "id": 60,
+     "id": 59,
      "idea": "Mess management System"
   },
   {
-     "id": 64,
+     "id": 60,
      "ideas": "loginadmin"
-     },
-     
-     {
-     "id": 65,
-     "ideas": "face id attendence system"
-     },
+  },
+  {
+      "id": 61,
+      "ideas": "face id attendence system"
+   },
   
-  {   "id": 61,
+  {   "id": 62,
      "idea": "Network Traffic Analyser"
   },
   {
-    "id": 62,
+    "id": 63,
     "ideas": "Web Scrapping IMDB website"
     },
     {
-     "id": 63,
+     "id": 64,
      "idea": "Sentiment analysis through face recognition using open CV"  
   },
   {
-    "id": 64,
+    "id": 65,
     "ideas": "loginadmin"
     },
   {
-    "id": 65,
+    "id": 66,
     "ideas": "Mathematical expressions parser and evaluator"
     },
     {
-    "id": 66,
+    "id": 67,
     "ideas": "Campus Navigation"
     },
   
   {
-    "id": 67,
+    "id": 68,
     "ideas": "travel website using blockchain"
   },
     {
-    "id": 68,
+    "id": 69,
     "ideas": "App based on event management for organization"
     },
     {
-    "id": 69
+    "id": 70,
     "ideas": "Accident Avoidation using IOT and ML"
     },
   
     {
-    "id": 70,
+    "id": 71,
     "ideas": "Placement Automation System for college"
   
     },
     {
-    "id": 71,
+    "id": 72,
     "ideas": "app for farmers about market rates of any vegetable all over nation"
     },
     {
-    "id": 72,
+    "id": 73,
     "ideas": "Weather Prediction"
     },
     {
-    "id": 73,
+    "id": 74,
     "ideas": "House Price Prediction according to locality"
     },
     {
-    "id": 74,
+    "id": 75,
     "ideas": "Water Management System"
     },
     {
-  "id": 75,
-  "ideas": "House Price Prediction according to locality"
+     "id": 76,
+     "ideas": "House Price Prediction according to locality"
   },
   {
-
-  "id": 117,
+  "id": 77,
   "ideas": "Mini conveyor belt using geneva mechanism"
-  },
- 
-  
+  }, 
  ]
   
