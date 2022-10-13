@@ -4,6 +4,10 @@
      "idea": "Body Following Drone"
     },
     {
+     "id": 169,
+     "idea": "ReachUs _service Provider Android Application"
+    },
+    {
      "id": 1,
      "idea": "Distributed Point of Sale System"
     }, 
@@ -157,11 +161,11 @@
     },
     {
       "id": 39,
-      "ideas": "Baby Cloud"
+      "idea": "Baby Cloud"
   },
     {
      "id": 40,
-     "idea": "System.info"
+     "idea": "House Price Prediction according to locality"
     },
     {
      "id": 41,
@@ -219,6 +223,7 @@
     "id": 54,
     "ideas": "Web Scrapping IMDB website"
     },
+    
     {
      "id": 55,
      "idea": "Sentiment analysis through face recognition using open CV"  
@@ -241,7 +246,7 @@
   },
   {
      "id": 60,
-     "ideas": "loginadmin"
+     "ideas": "Accident Avoidation using IOT and ML"
   },
   {
       "id": 61,
@@ -261,7 +266,7 @@
   },
   {
     "id": 65,
-    "ideas": "loginadmin"
+    "ideas": "Water Management System"
     },
   {
     "id": 66,
@@ -282,37 +287,133 @@
     },
     {
     "id": 70,
-    "ideas": "Accident Avoidation using IOT and ML"
-    },
+    "idea": "Placement Automation System for college"
   
+    },
     {
     "id": 71,
-    "ideas": "Placement Automation System for college"
-  
+    "idea": "app for farmers about market rates of any vegetable all over nation"
     },
     {
     "id": 72,
-    "ideas": "app for farmers about market rates of any vegetable all over nation"
+    "idea": "Weather Prediction"
     },
     {
-    "id": 73,
-    "ideas": "Weather Prediction"
-    },
-    {
-    "id": 74,
-    "ideas": "House Price Prediction according to locality"
-    },
-    {
-    "id": 75,
-    "ideas": "Water Management System"
-    },
-    {
-     "id": 76,
-     "ideas": "House Price Prediction according to locality"
+  "id": 76,
+  "idea": "Ecommerce Price Tracking System"
   },
   {
   "id": 77,
-  "ideas": "Mini conveyor belt using geneva mechanism"
-  }, 
- ]
+  "idea": "Resume Builder Application"
+  },
+  {
+  "id": 78,
+  "idea": "Encripted Chat Application"
+  },
+  {
+  "id": 79,
+  "idea": "Gym Management System"
+  },
+  {
+  "id": 80,
+  "idea": "Spam main Prediction"
+  },
+  {
+  "id": 81,
+  "idea": "Video Chat Application"
+  },
+  {
+  "id": 82,
+  "idea": "Learning Management System"
+  },
+  {
+  "id": 83,
+  "idea": "Voice to text translator"
+  },
+  {
+  "id": 84,
+  "idea": "Chatbot"
+  },
+  {
+  "id": 85,
+  "idea": "Algorithms Visualizer"
+  },
+{
+  "id": 86,
+  "idea": "Sonar water level meter"
+  },
+  {
+  "id": 87,
+  "idea": "Design and Development of Quadcopter for Sanitization and Spraying Pestisides, Sophos automaatic login exe"
+  },
+{
+  "id": 88,
+  "idea": "Dream 11 Team Prediction using legacy data"
+  },
+   {
+  "id": 89,
+  "idea": "Home Automation Using Arduino"
+  },
+
+  {
+  "id": 90,
+  "idea": "Health care system using esp32 and iot"
+  },
+  {
+
+  "id": 91,
+  "idea": "Web Scraping data from website using code."
+  },
+    {
+
+  "id": 92,
+  "idea": "Smart Plant watering system using IOT and ML"
+  },
+    {
+  "id": 93,
+  "idea": "Private VPN server by using RasberryPi"
+  },
+    {
+  "id": 94,
+  "idea": "Street Dog Charity Donation Site"
+},
+  {
+  "id": 95,
+  "ideas": "Design and Development of Quadcopter for Sanitization and Spraying Pestisides, Sophos automaatic login exe"
+  },
+  {
+  "id": 96,
+  "ideas": "message encryption and decryption in secret code"
+},
+ {
+  "id": 97,
+  "idea": "Mini conveyor belt using geneva mechanism"
+  },
   
+  {
+  "id": 98,
+  "idea": "LPG Leakage detector"
+  },
+   {
+  "id": 99,
+  "idea": "Variable height street lamp"
+  },
+  {
+    "id": 100,
+    "idea": "Mathematical expressions parser and evaluator"
+    },
+     {
+     "id": 101,
+     "idea": "Hunger relief System"
+    },
+  {
+     "id":102 ,
+     "idea": "AI Detection For Human Evolution"
+   },
+  {
+ "id": 103,
+  "ideas": "Online Newspaper Distribution System"
+  }
+  
+  ]
+
