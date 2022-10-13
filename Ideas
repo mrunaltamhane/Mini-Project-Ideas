@@ -420,9 +420,13 @@
      {
      "id": 101,
      "idea": "Hunger relief System"
-    }
-  ]
+    },
+  {
+     "id":102 ,
+     "idea": "AI Detection For Human Evolution"
+   }
 
+  ]
   
  
   
