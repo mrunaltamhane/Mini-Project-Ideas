@@ -4,6 +4,10 @@
      "idea": "Body Following Drone"
     },
     {
+     "id": 169,
+     "idea": "ReachUs _service Provider Android Application"
+    },
+    {
      "id": 1,
      "idea": "Distributed Point of Sale System"
     }, 
@@ -157,7 +161,7 @@
     },
     {
       "id": 39,
-      "ideas": "Baby Cloud"
+      "idea": "Baby Cloud"
   },
     {
      "id": 40,
@@ -221,7 +225,7 @@
     },
   {
     "id": 55,
-    "ideas": "Web Scrapping IMDB website"
+    "idea": "Web Scrapping IMDB website"
     },
     {
      "id": 56,
@@ -233,7 +237,7 @@
     },
     {
      "id": 58,
-      "ideas": "Baby Cloud"
+      "idea": "Baby Cloud"
     },
     {
       "id": 59,
@@ -243,89 +247,179 @@
      "id": 60,
      "idea": "Mess management System"
   },
-  {
-     "id": 64,
-     "ideas": "loginadmin"
-     },
-     
-     {
-     "id": 65,
-     "ideas": "face id attendence system"
-     },
-  
-  {   "id": 61,
+    {   "id": 61,
      "idea": "Network Traffic Analyser"
   },
   {
     "id": 62,
-    "ideas": "Web Scrapping IMDB website"
+    "idea": "Web Scrapping IMDB website"
     },
     {
      "id": 63,
      "idea": "Sentiment analysis through face recognition using open CV"  
   },
   {
-    "id": 64,
-    "ideas": "loginadmin"
-    },
-  {
-    "id": 65,
-    "ideas": "Mathematical expressions parser and evaluator"
-    },
+     "id": 64,
+     "idea": "loginadmin"
+     },
+     
+     {
+     "id": 65,
+     "idea": "face id attendence system"
+     },
+ 
+ 
     {
     "id": 66,
-    "ideas": "Campus Navigation"
+    "idea": "Campus Navigation"
     },
   
   {
     "id": 67,
-    "ideas": "travel website using blockchain"
+    "idea": "travel website using blockchain"
   },
     {
     "id": 68,
-    "ideas": "App based on event management for organization"
+    "idea": "App based on event management for organization"
     },
     {
-    "id": 69
-    "ideas": "Accident Avoidation using IOT and ML"
+    "id": 69,
+    "idea": "Accident Avoidation using IOT and ML"
     },
   
     {
     "id": 70,
-    "ideas": "Placement Automation System for college"
+    "idea": "Placement Automation System for college"
   
     },
     {
     "id": 71,
-    "ideas": "app for farmers about market rates of any vegetable all over nation"
+    "idea": "app for farmers about market rates of any vegetable all over nation"
     },
     {
     "id": 72,
-    "ideas": "Weather Prediction"
+    "idea": "Weather Prediction"
     },
     {
     "id": 73,
-    "ideas": "House Price Prediction according to locality"
+    "idea": "House Price Prediction according to locality"
     },
     {
     "id": 74,
-    "ideas": "Water Management System"
+    "idea": "Water Management System"
     },
     {
   "id": 75,
-  "ideas": "House Price Prediction according to locality"
+  "idea": "House Price Prediction according to locality"
+  },
+    {
+  "id": 76,
+  "idea": "Ecommerce Price Tracking System"
   },
   {
-
-  "id": 117,
-  "ideas": "Mini conveyor belt using geneva mechanism"
+  "id": 77,
+  "idea": "Resume Builder Application"
   },
   {
+  "id": 78,
+  "idea": "Encripted Chat Application"
+  },
+  {
+  "id": 79,
+  "idea": "Gym Management System"
+  },
+  {
+  "id": 80,
+  "idea": "Spam main Prediction"
+  },
+  {
+  "id": 81,
+  "idea": "Video Chat Application"
+  },
+  {
+  "id": 82,
+  "idea": "Learning Management System"
+  },
+  {
+  "id": 83,
+  "idea": "Voice to text translator"
+  },
+  {
+  "id": 84,
+  "idea": "Chatbot"
+  },
+  {
+  "id": 85,
+  "idea": "Algorithms Visualizer"
+  },
+{
+  "id": 86,
+  "idea": "Sonar water level meter"
+  },
+  {
+  "id": 87,
+  "idea": "Design and Development of Quadcopter for Sanitization and Spraying Pestisides, Sophos automaatic login exe"
+  },
+{
+  "id": 88,
+  "idea": "Dream 11 Team Prediction using legacy data"
+  },
+   {
+  "id": 89,
+  "idea": "Home Automation Using Arduino"
+  },
 
-  "id": 118,
-  "ideas": "LPG Leakage detector"
-  }
- 
+  {
+  "id": 90,
+  "idea": "Health care system using esp32 and iot"
+  },
   
- ]
+  {
+
+  "id": 91,
+  "idea": "Web Scraping data from website using code."
+  },
+    {
+
+  "id": 92,
+  "idea": "Smart Plant watering system using IOT and ML"
+  },
+    {
+  "id": 93,
+  "idea": "Private VPN server by using RasberryPi"
+  },
+    {
+  "id": 94,
+  "idea": "Street Dog Charity Donation Site"
+},
+ {
+    "id": 95,
+    "idea": "loginadmin"
+    },
+  {
+    "id": 96,
+    "idea": "Mathematical expressions parser and evaluator"
+    },
+     {
+
+  "id": 97,
+  "idea": "Mini conveyor belt using geneva mechanism"
+  },
+  {
+
+  "id": 98,
+  "idea": "LPG Leakage detector"
+  },
+   {
+
+  "id": 99,
+  "idea": "Variable height street lamp"
+  }
+
+
+  ]
+
+
+  
+ 
   
