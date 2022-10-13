@@ -388,8 +388,7 @@
  {
   "id": 97,
   "idea": "Mini conveyor belt using geneva mechanism"
-  },
-  
+  },  
   {
   "id": 98,
   "idea": "LPG Leakage detector"
@@ -413,7 +412,11 @@
   {
  "id": 103,
   "ideas": "Online Newspaper Distribution System"
-  }
-  
+  },
+  {
+      "id": 104,
+      "ideas": "stock trading automated buy and sell"
+  } 
+
   ]
 
