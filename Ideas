@@ -373,7 +373,6 @@
   "id": 90,
   "idea": "Health care system using esp32 and iot"
   },
-  
   {
 
   "id": 91,
@@ -424,8 +423,12 @@
   {
      "id":102 ,
      "idea": "AI Detection For Human Evolution"
-   }
-
+   },
+  {
+ "id": 103,
+  "ideas": "Online Newspaper Distribution System"
+  }
+  
   ]
   
  
