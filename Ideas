@@ -374,7 +374,7 @@
   "id": 87,
   "ideas": "Design and Development of Quadcopter for Sanitization and Spraying Pestisides, Sophos automaatic login exe"
   },
-  {
+{
   "id": 88,
   "ideas": "Dream 11 Team Prediction using legacy data"
   },
@@ -401,7 +401,11 @@
     {
   "id": 93,
   "ideas": "Private VPN server by using RasberryPi"
-  }
+  },
+    {
+  "id": 94,
+  "ideas": "Street Dog Charity Donation Site"
+}
 
   ]
 
